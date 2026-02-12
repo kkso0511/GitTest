@@ -10,8 +10,9 @@ metaLinks:
 ### 개요 <a href="#a03" id="a03"></a>
 
 DirectCloud에는 '관리자 페이지'와 '사용자 페이지'의 두 가지 유형이 있습니다. 관리자 페이지에 설정된 보안 정책의 범위 내에서 사용자 페이지를 조작할 수 있습니다.\
-이 매뉴얼에서는 사용자 페이지에 로그인하는 방법에 대해 설명합니다.
-테스트
+이 매뉴얼에서는 사용자 페이지에 로그인하는 방법에 대해 설명합니다. 테스트
+
+&#x20;ㄻㅇㄻㅇㄹ
 
 ***
 
@@ -30,17 +31,13 @@ DirectCloud에는 '관리자 페이지'와 '사용자 페이지'의 두 가지 �
 {% endhint %}
 
 1. web 브라우저에서 DirectCloud 사용자 페이지의 로그인 페이지를 클릭합니다.\
-   또는 직접 https://web.directcloud.net  에접속합니다.
+   또는 직접 https://web.directcloud.net 에접속합니다.
 
 <figure><img src="../../.gitbook/assets/image (1218).png" alt=""><figcaption></figcaption></figure>
 
-
-
-2. 회사코드(그룹아이디),  아이디, 비밀번호를 입력하고 로그인 버튼을 클릭합니다.
+2. 회사코드(그룹아이디), 아이디, 비밀번호를 입력하고 로그인 버튼을 클릭합니다.
 
 <figure><img src="../../.gitbook/assets/image (1219).png" alt=""><figcaption></figcaption></figure>
-
-
 
 {% hint style="warning" %}
 **DirectCloud 드라이브로 로그인**
@@ -48,13 +45,11 @@ DirectCloud에는 '관리자 페이지'와 '사용자 페이지'의 두 가지 �
 
 1. 다음 방법 중 하나로 DirectCloud 드라이브를 시작합니다.
 
-&#x20;     ❶  바탕 화면의 바로 가기 아이콘을 더블 클릭
+❶ 바탕 화면의 바로 가기 아이콘을 더블 클릭
 
 <figure><img src="../../.gitbook/assets/image (1221).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;     ❷  시작 메뉴에서 DirectCloud 드라이브 > DirectCloud 드라이브를 클릭합니다.
-
-
+❷ 시작 메뉴에서 DirectCloud 드라이브 > DirectCloud 드라이브를 클릭합니다.
 
 2. 회사코드, 아이디, 비밀번호를 입력하고 로그인 버튼을 클릭합니다.
 
@@ -66,15 +61,11 @@ DirectCloud에는 '관리자 페이지'와 '사용자 페이지'의 두 가지 �
 
 또한 작업 트레이의 DirectCloud 드라이브 아이콘이 파란색(로그인 상태)으로 바뀝니다.
 
-
-
 3. 작업 트레이를 클릭하고 DirectCloud 드라이브 아이콘을 클릭합니다.
 
 <figure><img src="../../.gitbook/assets/image (1223).png" alt=""><figcaption></figcaption></figure>
 
 DirectCloud 드라이브의 작업 트레이가 표시됩니다.
-
-
 
 4. 드라이브 버튼을 클릭합니다.
 

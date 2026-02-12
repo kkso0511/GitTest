@@ -5,7 +5,7 @@ metaLinks:
       https://app.gitbook.com/s/FRc8hBWqHCHYh3E0AhFb/user_manual/quickstart/directcloud-drive
 ---
 
-# 업데이트 알림을 통해 DirectCloud Drive를 업데이트하는 방법
+# 업데이트 알림을 통해 DirectCloud Drive를 업데이트하는 방법 22
 
 ### 개요 <a href="#a03" id="a03"></a>
 

@@ -3,11 +3,11 @@
 ## <사용자 매뉴얼> <a href="#user_manual" id="user_manual"></a>
 
 * [프로그램 설치 방법](README.md)
-  * [DirectCloud 드라이브 프로그램 설치 방법](user_manual/quickstart/directcloud.md)
+  * [DirectCloud 드라이브 프로그램 설치 방법](user_manual/quickstart/drive.md)
   * [DirectCloud-SHIELD IRM을 지원하는 PC Drive를 설치하는 방법](user_manual/quickstart/directcloud-shield-irm-pc-drive.md)
   * [DirectCloud-SHIELD DLP을 지원하는 PC Drive를 설치하는 방법](user_manual/quickstart/directcloud-shield-dlp-pc-drive.md)
-  * [업데이트 알림을 통해 DirectCloud Drive를 업데이트하는 방법](user_manual/quickstart/directcloud-drive.md)
-  * [모바일 앱 설치 방법 테스트](user_manual/quickstart/undefined.md)
+  * [업데이트 알림을 통해 DirectCloud Drive를 업데이트하는 방법](user_manual/quickstart/drive-update.md)
+  * [모바일 앱 설치 방법 테스트](user_manual/quickstart/mobile.md)
 * [로그인, 로그아웃](user_manual/undefined/README.md)
   * [\[Web, Drive\] 회사코드, 아이디, 비밀번호로 사용자 페이지에 로그인하는 방법](user_manual/undefined/web-drive.md)
   * [\[Mobile\] 회사코드, 아이디, 비밀번호로 사용자 페이지에 로그인하는 방법](user_manual/undefined/mobile.md)
@@ -473,7 +473,7 @@
 * [용량 관리](admin_manual/undefined-8/README.md)
   * [계약 용량과 사용 용량을 확인하는 방법](admin_manual/undefined-8/undefined.md)
   * [저장용량이 계약용량을 초과하는 경우 알림 메일을 받는 방법 (한국미제공)](admin_manual/undefined-8/undefined-1.md)
-  * [DR 사이트에 대한 액세스를 허용 여부를  설정하는 방법](admin_manual/undefined-8/dr.md)
+  * [DR 사이트에 대한 액세스를 허용 여부를 설정하는 방법](admin_manual/undefined-8/dr.md)
   * [파일 버전 관리를 사용하는 방법](admin_manual/undefined-8/undefined-2.md)
   * [휴지통을 사용하도록 설정하고, 보관 기간을 설정하는 방법](admin_manual/undefined-8/undefined-3.md)
   * [My Box의 파일을 자동으로 삭제하도록 설정하는 방법](admin_manual/undefined-8/my-box.md)

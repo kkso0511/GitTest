@@ -7,7 +7,7 @@
   * [DirectCloud-SHIELD IRM을 지원하는 PC Drive를 설치하는 방법](user_manual/quickstart/directcloud-shield-irm-pc-drive.md)
   * [DirectCloud-SHIELD DLP을 지원하는 PC Drive를 설치하는 방법](user_manual/quickstart/directcloud-shield-dlp-pc-drive.md)
   * [업데이트 알림을 통해 DirectCloud Drive를 업데이트하는 방법](user_manual/quickstart/directcloud-drive.md)
-  * [모바일 앱 설치 방법](user_manual/quickstart/undefined.md)
+  * [모바일 앱 설치 방법 테스트](user_manual/quickstart/undefined.md)
 * [로그인, 로그아웃](user_manual/undefined/README.md)
   * [\[Web, Drive\] 회사코드, 아이디, 비밀번호로 사용자 페이지에 로그인하는 방법](user_manual/undefined/web-drive.md)
   * [\[Mobile\] 회사코드, 아이디, 비밀번호로 사용자 페이지에 로그인하는 방법](user_manual/undefined/mobile.md)
